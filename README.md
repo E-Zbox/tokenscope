@@ -28,3 +28,5 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Powered by
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [QuickNode Documentation](https://www.quicknode.com/docs/welcome) - learn about QuickNode's features and APIs.
+- [OKLink Documentation](https://www.oklink.com/docs/en/#introduction) - dive deep into the various APIs about time based statistics of the blockchain
