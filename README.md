@@ -1,3 +1,16 @@
+# TokenScope
+
+### Description
+
+TokeScope is a DApp that allows user to unmask key metrics, top holders, and insightful data on-chain - all in one place.
+
+### Table of Contents
+
+- [Description](#description)
+- [Getting Started](#getting-started)
+- [Inside the DApp](#inside-the-dapp)
+- [Powered by](#powered-by)
+
 ## Getting Started
 
 First, run the development server:
